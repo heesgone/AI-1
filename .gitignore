@@ -3,6 +3,6 @@ __pycache__/
 *.pth
 *.zip
 
-week_4/results
-week_5/results
+week_4/results/
+week_5/results/
 week_6_7_8/results/
