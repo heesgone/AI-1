@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pth
+*.zip
+
+week_4/results
+week_5/results
+week_6_7_8/results/
