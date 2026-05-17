@@ -131,5 +131,5 @@ AI-1/
 
 ## ✍️ Author
 
-- Name: HeeJin CHO (성신여자대학교대학원 미래융합기술공학과 학석사과정-예비학기)
+- Name: HeeJin CHO
 - Major: AI
